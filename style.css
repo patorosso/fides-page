@@ -81,15 +81,6 @@ html{
 
 
 
-
-
-
-
-
-
-
-
-
 section:nth-child(2){
     min-height: 100vh; 
     background-image: linear-gradient(to top, #537895 5%, rgb(159, 156, 202) 13%, #e0e0e0 26%, #efefef 48%, #949393 75%, rgba(62,72,96) 100%);
@@ -101,10 +92,7 @@ section:nth-child(3){
     width: 100%; 
 }
 
-/* section:nth-child(4){
-    min-height: 100vh; 
-    background-image: linear-gradient(to top, rgb(138, 130, 130) 0%, rgb(138, 133, 133) 1%, #d3c3c3 26%, #efefef 48%, #d9d9d9 75%, #c43c3c 100%);
-} */
+
 
 
 .header{
@@ -341,12 +329,7 @@ nav .fa-solid{
 
     }
     
-    .nav-links3{
-    flex: 2;
-    text-align:left;
-    margin-left:10px;
-   
-}
+ 
 
     .nav-links ul .hideInicio
 {
@@ -471,6 +454,11 @@ p{
 {
     margin-top:3%;
     max-width: 60%;
+}
+
+.download-img{
+    margin-top: 30px;
+    width: 100%;
 }
 
 
@@ -958,7 +946,7 @@ h3{
 #contact-footer
 {
     text-align: right;
-    margin-top: -50px;
+    margin-top: -60px;
 
 }
 
@@ -1092,3 +1080,9 @@ h3{
     
 }
 
+.nav-links3{
+    flex: 1;
+    text-align:left;
+    margin-left:10px;
+   
+}

@@ -7,10 +7,11 @@ Página web oficial de la empresa relacionada a la gestión de cobranzas judicia
 ---
 
 ## Home
-<https://github.com/patorosso/fides-page/blob/master/images/index_fides.png?raw=true width="500">
 
+<img src="https://github.com/patorosso/fides-page/blob/master/images/index_fides.png?raw=true width="500" style="margin-right: 30px" width="360" />
+                                                                                                                                                
 ---
-
+                                                                                                                                                
 ## Flight Track
 
 <div style="text-align=center;">

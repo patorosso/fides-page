@@ -2,7 +2,7 @@
 www.fides-rocca.com.ar
 
 ## Overview
-Página web oficial de la empresa relacionada a la gestión de cobranzas judiciales y extrajudiciales. Diseñada con HTML, Javascript, PHP y CSS.
+Página web oficial de la empresa relacionada a la gestión de cobranzas judiciales y extrajudiciales. Desarrollada con HTML, PHP, Javascript y CSS.
 
 ---
 

@@ -7,7 +7,7 @@ Página web oficial de la empresa relacionada a la gestión de cobranzas judicia
 ---
 
 ## Home
-<img src="https://github.com/patorosso/myflightsapp/blob/main/assets/home.png?raw=true" width="360">
+<https://github.com/patorosso/fides-page/blob/master/images/index_fides.png?raw=true width="500">
 
 ---
 

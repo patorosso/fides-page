@@ -14,4 +14,4 @@ Página web oficial de la empresa relacionada a la gestión de cobranzas judicia
                                                                                                                                                 
 ## Contacto
 
-<img src="https://github.com/patorosso/fides-page/blob/master/images/contacto_fides.png?raw=true" width="1000"/>
+<img src="https://github.com/patorosso/fides-page/blob/master/images/contacto_fides.PNG?raw=true" width="1000"/>
